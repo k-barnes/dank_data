@@ -1,6 +1,6 @@
 # Dank or Not
 
-Supplementary data for the paper the _Dank or Not? -- Analyzing and Predicting Popularity of Memes on Reddit_ - Barnes et al. (2020)
+Supplementary data for the paper the _Dank or Not? -- Analyzing and Predicting Popularity of Memes on Reddit_ - Barnes et al. (2021)
 
 ## How to Cite
 
